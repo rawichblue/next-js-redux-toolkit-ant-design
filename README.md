@@ -4,6 +4,7 @@ This is an **Employee Management System** built with [Next.js](https://nextjs.or
 It allows you to **Create**, **Read**, **Update**, and **Delete** employee records and filter results using advanced search inputs.
 
 > API powered by [MockAPI.io](https://mockapi.io):
+example api : https://68026c7b0a99cb7408e99191.mockapi.io/test/api/v1/user
 
 
 
